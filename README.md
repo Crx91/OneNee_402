@@ -41,11 +41,11 @@ Yes! I am using the PA0/UPDI pin. You can use PA0 as an input without needing hi
 - After that, choose Sketch -> Upload Using Programmer.
 - For installation, follow the wiring diagrams in the [Install](Install) folder based on your console motherboard.
 
-// Changelog:
-Rev1: First Release.
-Rev3: Newer timing implementation made by the great @kalymos, code now is even smaller and no more ISR timing dipendent!
-      On the Injection function updated WFCK modulation for 7.3/14.6 kHz compatibility.
-      Removed all the unnecessary code statements and function related to the old injection mode for PU-7 to PU-20 motherboards.
+Changelog:
+- Rev1: First Release.
+- Rev3: Newer timing implementation made by the great @kalymos, code now is even smaller and no more ISR timing dipendent!
+        On the Injection function updated WFCK modulation for 7.3/14.6 kHz compatibility.
+        Removed all the unnecessary code statements and function related to the old injection mode for PU-7 to PU-20 motherboards.
 
 ## Why this modc. is better and different compared to the older oldcrow\mayumi\multimode\onchip\stealth2.x? (extracted part from PsNeev7 readme)
 
