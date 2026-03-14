@@ -1,6 +1,8 @@
 # OneNee_402
 PsNee + OneChip port for the ATtiny402 on PAL PM41 boards.
 
+**Warning:** Updated code is avaiable at [main](https://github.com/Crx91/OneNee_402) branch!
+
 Port of PsNee v7/v8 with OneChip BIOS patching for the ATtiny402.
 Full stealth and BIOS patching on PAL PM41-v1 and PM41-v2 boards! There is virtually no noise or degradation of the laser RF signal level because the code injects the SCEX string only when needed.
 This chip is ONLY compatible with PM-41v1 and PM-41v2 PAL motherboards.
